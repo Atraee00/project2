@@ -1,4 +1,2 @@
-# new project
-
-this project was created from local system.
-created by Atraee Roy
+# new project 
+This project was crated from local system.
